@@ -1,0 +1,206 @@
+{
+    "pokemons":[{
+        "id" : 1,
+        "nome" : "Bulbasauro",
+        "imagem" : "",
+        "Tipo" :
+            [
+                {
+                    "tipo1" : "Planta",
+                    "tipo2" : "Venenoso"
+                }
+            ],
+        "EVY" : 
+            [
+                {
+        
+                    "Experiencia" : 64,
+                    "HP" : 0,
+                    "Ataque" : 0,
+                    "Ataque_Especial" : 1,
+                    "Defesa" : 0,
+                    "Defesa_Especial" : 0,
+                    "Velocidade" : 0
+                }
+            ]
+     },{
+        "id" : 2,
+        "nome" : "Ivysauro",
+        "imagem" : "",
+            "Tipo" :
+            [
+                {
+                    "tipo1" : "Planta",
+                    "tipo2" : "Venenoso"
+                }
+            ],
+        "EVY" : 
+            [
+                {
+                     "Experiencia" : 142,
+                     "HP" : 0,
+                     "Ataque" : 0,
+                     "Ataque_Especial" : 1,
+                     "Defesa" : 0,
+                     "Defesa_Especial" : 1,
+                     "Velocidade" : 0
+                }
+            ]
+     },{
+        "id" : 3,
+        "nome" : "Venossauro",
+        "imagem" : "",
+            "Tipo" :
+            [
+                {
+                    "tipo1" : "Planta",
+                    "tipo2" : "Venenoso"
+                }
+            ],
+        "EVY" : 
+            [
+                {
+                    "Experiencia" : 236,
+                    "HP" : 0,
+                    "Ataque" : 0,
+                    "Ataque_Especial" : 2,
+                    "Defesa" : 0,
+                    "Defesa_Especial" : 1,
+                    "Velocidade" : 0
+                }
+            ]
+     },{
+        "id" : 4,
+        "nome" : "Charmander",
+        "imagem" : "",
+            "Tipo" :
+            [
+                {
+                    "tipo1" : "Fogo"
+                }
+            ],
+        "EVY" : 
+            [
+                {
+                    "Experiencia" : 62,
+                    "HP" : 0,
+                    "Ataque" : 0,
+                    "Ataque_Especial" : 0,
+                    "Defesa" : 0,
+                    "Defesa_Especial" : 0,
+                    "Velocidade" : 1
+                }
+            ]
+     },{
+        "id" : 5,
+        "nome" : "Charmeleon",
+        "imagem" : "",
+        "Tipo" :
+            [
+                {
+                    "tipo1" : "Fogo"
+                }
+            ],
+        "EVY" : 
+            [
+                {
+                    "Experiencia" : 142,
+                    "HP" : 0,
+                    "Ataque" : 0,
+                    "Ataque_Especial" : 1,
+                    "Defesa" : 0,
+                    "Defesa_Especial" : 0,
+                    "Velocidade" : 1
+                }
+            ]
+     },{
+        "id" : 6,
+        "nome" : "Charizard",
+        "imagem" : "",
+            "Tipo" :
+            [
+                {
+                    "tipo1" : "Fogo",
+                    "tipo2" : "Voador"
+                }
+            ],
+        "EVY" : 
+            [
+                {
+                    "Experiencia" : 240,
+                    "HP" : 0,
+                    "Ataque" : 0,
+                    "Ataque_Especial" : 3,
+                    "Defesa" : 0,
+                    "Defesa_Especial" : 0,
+                    "Velocidade" : 0
+                }
+            ]
+     },{
+        "id" : 7,
+        "nome" : "Squirtle",
+        "imagem" : "",
+            "Tipo" :
+            [
+                {
+                    "tipo1" : "Água"
+                }
+            ],
+        "EVY" : 
+            [
+                {
+                    "Experiencia" : 63,
+                    "HP" : 0,
+                    "Ataque" : 0,
+                    "Ataque_Especial" : 0,
+                    "Defesa" : 1,
+                    "Defesa_Especial" : 0,
+                    "Velocidade" : 0
+                }
+            ]
+     },{
+        "id" : 8,
+        "nome" : "Wartortle",
+        "imagem" : "",
+        "Tipo" :
+            [
+                {
+                    "tipo1" : "Água"
+                }
+            ],
+        "EVY" : 
+            [
+                {
+                    "Experiencia" : 142,
+                    "HP" : 0,
+                    "Ataque" : 0,
+                    "Ataque_Especial" : 1,
+                    "Defesa" : 0,
+                    "Defesa_Especial" : 1,
+                    "Velocidade" : 0
+                }
+            ]
+     },{
+        "id" : 9,
+        "nome" : "Blastoise",
+        "imagem" : "",
+        "Tipo" :
+            [
+                {
+                    "tipo1" : "Água"
+                }
+            ],
+        "EVY" : 
+            [
+                {
+                    "Experiencia" : 239,
+                    "HP" : 0,
+                    "Ataque" : 0,
+                    "Ataque_Especial" : 0,
+                    "Defesa" : 0,
+                    "Defesa_Especial" : 3,
+                    "Velocidade" : 0
+                }
+            ]
+    }]
+ }
