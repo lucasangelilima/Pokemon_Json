@@ -2,7 +2,7 @@
     "pokemons":[{
         "id" : 1,
         "nome" : "Bulbasauro",
-        "imagem" : "",
+        "imagem" : "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/001.png",
         "Tipo" :
             [
                 {
@@ -26,7 +26,7 @@
      },{
         "id" : 2,
         "nome" : "Ivysauro",
-        "imagem" : "",
+        "imagem" : "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/002.png",
             "Tipo" :
             [
                 {
@@ -49,7 +49,7 @@
      },{
         "id" : 3,
         "nome" : "Venossauro",
-        "imagem" : "",
+        "imagem" : "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/003.png",
             "Tipo" :
             [
                 {
@@ -72,7 +72,7 @@
      },{
         "id" : 4,
         "nome" : "Charmander",
-        "imagem" : "",
+        "imagem" : "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/004.png",
             "Tipo" :
             [
                 {
@@ -94,7 +94,7 @@
      },{
         "id" : 5,
         "nome" : "Charmeleon",
-        "imagem" : "",
+        "imagem" : "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/005.png",
         "Tipo" :
             [
                 {
@@ -116,7 +116,7 @@
      },{
         "id" : 6,
         "nome" : "Charizard",
-        "imagem" : "",
+        "imagem" : "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/006.png",
             "Tipo" :
             [
                 {
@@ -139,7 +139,7 @@
      },{
         "id" : 7,
         "nome" : "Squirtle",
-        "imagem" : "",
+        "imagem" : "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/007.png",
             "Tipo" :
             [
                 {
@@ -161,7 +161,7 @@
      },{
         "id" : 8,
         "nome" : "Wartortle",
-        "imagem" : "",
+        "imagem" : "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/008.png",
         "Tipo" :
             [
                 {
@@ -183,7 +183,7 @@
      },{
         "id" : 9,
         "nome" : "Blastoise",
-        "imagem" : "",
+        "imagem" : "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/009.png",
         "Tipo" :
             [
                 {
